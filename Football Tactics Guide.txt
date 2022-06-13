@@ -1,9 +1,9 @@
 Football Tactics Guide by Gorštak
 a) Pick mentality depending on central triangles..
 
-DM + MC + AMC = attacking
+MC = attacking
 MC + AMC = control
-MC = standard
+DM + MC + AMC = standard
 DM + MC = counter
 DM + AMC = defensive
 
