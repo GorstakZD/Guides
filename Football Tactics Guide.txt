@@ -1,7 +1,7 @@
 Football Tactics Guide by Gorštak
 a) Pick mentality depending on central triangles..
 
-DM + AMC present = defensive
+DM + MC + AMC present = defensive
 DM present = counter
 MC missing = standard
 DM missing = control
